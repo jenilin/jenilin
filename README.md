@@ -1,7 +1,9 @@
-### Hi, I'm Jenny. 👋
+### Hi, I'm Jenny👩🏻‍💻
 
-- 🎓 成功大學智慧製造國際碩士學位學程 在學中...
-- 🎓 輔仁大學企業管理學系畢業
+
+🎓 Education
+- Intelligent Manufacturing | Master's Degree | National Cheng Kung University
+- Business Administration | Bachelor's Degree | Fu Jen Catholic University
 
 <!--
 **jenilin/jenilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
