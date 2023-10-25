@@ -2,7 +2,7 @@
 
 
 🎓 Education
-- Intelligent Manufacturing | Master's Degree | National Cheng Kung University
+- Manufacturing Information and Systems | Master's Degree | National Cheng Kung University
 - Business Administration | Bachelor's Degree | Fu Jen Catholic University
 
 <!--
